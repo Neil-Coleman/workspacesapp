@@ -1,0 +1,7 @@
+{
+    "name": "feature1",
+    "version": "1.0.0",
+    "dependencies": {
+        "expo-image": "~1.0.0"
+    }
+}

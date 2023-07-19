@@ -1,4 +1,4 @@
-# workspacesapp
+# workspaces app
 Another poc for possible modular app using yarn workspaces
 
 A small sample app which aims to demonstrate a possible approach to a modular app, this uses the Expo framework with react navigation for nav.
